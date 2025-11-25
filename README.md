@@ -27,6 +27,7 @@
 - **Smooth Gradient Effects**: Beautiful purple-to-pink color transitions
 - **Professional Console UI**: Clean, organized menu system
 - **Real-time Status Updates**: Live progress indicators and statistics
+- **Actaully very Fast** More than 1k pings in 30 secs
 
 ### ⚙️ Advanced Configuration
 - **External Config System**: Edit settings without recompiling
