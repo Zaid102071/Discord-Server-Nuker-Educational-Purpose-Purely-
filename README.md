@@ -1,4 +1,8 @@
 # 🔥 Shadow Nuker - Ultimate Discord Server Management Tool
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/c5ab3cd7-82b0-49b1-89aa-7000624bc10e" />
+<img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/7a3a97f6-600e-4644-b363-516578d0a21a" />
+<img width="1366" height="768" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/093919cb-f970-4b96-8c03-f16421cb7aaa" />
+
 
 > **⚠️ WARNING: FOR EDUCATIONAL PURPOSES ONLY**  
 > This tool is designed for educational and authorized server testing only. Misuse of this software may violate Discord's Terms of Service and result in account termination.
@@ -33,6 +37,9 @@
 - **External Config System**: Edit settings without recompiling
 - **Modular Architecture**: Easy to customize and extend
 - **Rate Limit Aware**: Intelligent timing to avoid detection
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/c5ab3cd7-82b0-49b1-89aa-7000624bc10e" />
+<img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/7a3a97f6-600e-4644-b363-516578d0a21a" />
+<img width="1366" height="768" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/093919cb-f970-4b96-8c03-f16421cb7aaa" />
 
 ## 📖 Manual Usage Guide
 
